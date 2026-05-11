@@ -1,0 +1,4 @@
+{"name":"docker-doctor","version":"1.0.0","description":"Docker container health diagnostics CLI",
+"bin":{"docker-doctor":"./bin/docker-doctor.js"},
+"repository":{"type":"git","url":"git+https://github.com/laolaoqi/docker-doctor.git"},
+"keywords":["docker","containers","diagnostics","health"],"license":"MIT"}
